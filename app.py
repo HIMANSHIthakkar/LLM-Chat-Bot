@@ -9,7 +9,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain.chains.question_answering import load_qa_chain
 
 # Set your Groq API Key here 
-os.environ["GROQ_API_KEY"] = "you just need the groq secret api key here and code will work finely"  # <-- Replace with your actual key
+os.environ["GROQ_API_KEY"] = "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"  # <-- Replace with your actual key
 
 
 # Function to extract text from PDF

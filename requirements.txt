@@ -4,3 +4,5 @@ langchain
 faiss-cpu
 sentence-transformers
 openai
+transformers
+huggingface-hub

@@ -1,8 +1,8 @@
 streamlit
 PyPDF2
-langchain
+langchain==0.2.0
 faiss-cpu
-sentence-transformers
-transformers
-huggingface-hub
+sentence-transformers==2.6.1
+transformers==4.41.2
+huggingface-hub==0.23.0
 openai

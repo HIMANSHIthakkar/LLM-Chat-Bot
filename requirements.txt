@@ -3,6 +3,6 @@ PyPDF2
 langchain
 faiss-cpu
 sentence-transformers
-openai
 transformers
 huggingface-hub
+openai
